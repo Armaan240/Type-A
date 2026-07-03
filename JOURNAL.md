@@ -5,11 +5,11 @@
 | Author | ARMAAN SONI  |
 | Slack Id | U091M21518T (@AMU)|
 | Created  | 2026-07-2 |
-| Last Updated  | 2026-07-2 |
-| Total Time Till date| 3 Hours|
+| Last Updated  | 2026-07-3 |
+| Total Time Till date| 4 Hours|
 | Project Type | A custom split keeb !! |
 
-# 2 JULY 2026 2:30 pm - 5:30 pm 
+
 
 ## Keys Matrix
 ok so yah after lot of procastination i finaly started to make a keeb i so now it was time to decide to make which type a normal , or a split umm spilt keeb is the option for which i went cuz i feel using a spilt keeb could help make my posture correct , umm i love rgb leds so i had decided to to make it a backlit using SK6812 mini - E , these leds are pretty easy and doable with handsoldering , and sets perfect under keys for proper backlit effect , i want it make it compact and sleek so using a whole big pico for 3X6 and two extra keys wouldnt be feasible , so i decided to go with seed studio RP2040 and code with KMK , it have 11 pins which are sufficient for my thingi , 10 pins for keys and one pin for DIN , so yah i started making the schematic i would be design it in hirearchy so that it would be easy to handle (not too easy tbh !!) 
@@ -39,3 +39,9 @@ yah the schematic thingi litt time taking but now it was time to make the pcb fo
 <img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/1edd02ce-4dce-41f3-8b1d-33c29f05069e" />
 <img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/83e1c5e2-ca36-4d70-9b86-c88d13a03756" />
 
+# 3 JULY 2026 7:00 pm - 8:00 pm 
+So yah all this took me hour cuz i had to arrange 40 rgb leds by flipping and rotaing them , 40 capcitors and 40 diodes , so first i started with placing diodes i am going to solder at the back and and completed the left side of the pcb , and then placed the leds backmounted , i have kept the diode for the switch at a odd postion but it works , after all these i plced capcitors and left side was complted , the move to right side i did the same i lol i forgot to flip them so it need me the flip again some of them like 5-6 were of them which got left out so after diodes , i placed the capictors and leds , all these were easy but timke taking to place one by one , and yah i using smd capcitors which would be quite easy to solder by hand too! i have kep the pos of rgb at a aprox where the switch sets so yah it would look amazing when it will glow !! 
+<img width="1920" height="1080" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/797049f5-8b7c-41ed-8d5b-849b76cd3995" />
+<img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/3dc28394-16ec-4ad4-a93a-806c451c6e0d" />
+<img width="1920" height="1080" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/392648ca-d11b-4146-937f-dce322d422ec" />
+<img width="1920" height="1080" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/4233732e-2447-4a01-a548-553a256c1761" />
