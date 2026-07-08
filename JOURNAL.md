@@ -5,8 +5,8 @@
 | Author | ARMAAN SONI  |
 | Slack Id | U091M21518T (@AMU)|
 | Created  | 2026-07-2 |
-| Last Updated  | 2026-07-3 |
-| Total Time Till date| 4 Hours|
+| Last Updated  | 2026-07-9 |
+| Total Time Till date| 6 Hours 30 min|
 | Project Type | A custom split keeb !! |
 
 
@@ -45,3 +45,23 @@ So yah all this took me hour cuz i had to arrange 40 rgb leds by flipping and ro
 <img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/3dc28394-16ec-4ad4-a93a-806c451c6e0d" />
 <img width="1920" height="1080" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/392648ca-d11b-4146-937f-dce322d422ec" />
 <img width="1920" height="1080" alt="Screenshot (317)" src="https://github.com/user-attachments/assets/4233732e-2447-4a01-a548-553a256c1761" />
+
+# 3 JULY 2026 9:00 pm - 9:30 pm (I DID THIS ON 3 JULY BUT WRITING UP ON 9 :P )
+Oki it was time to route the pcb , i started with colums or ig rows i am really bad at identifing rown and columns lol , anyways i routed the switchs and diodes to the xiao it was easy peasy (it was not tbh! ) cuz like i messed with positions so it made it harder to route things , i fear what i would do while routing 5v and gnd and rgbs like it gonna make the task 10x  but nvm i  gonna handle it ! btw i have kep the traces 0.4 cuz like thats a safe zone since my switches are far way so it would cause less resistence ! 
+<img width="1920" height="1080" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/318ae4be-7570-4857-a136-907388f81b21" />
+<img width="1920" height="1080" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/9260b3f7-7a37-4731-a17c-7b4e4a7681e8" />
+<img width="1920" height="1080" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/561d0727-d876-4a62-b756-e0cd43eeb5f9" />
+<img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/0b0be09f-7c80-4f0a-b239-6e0fff0d6634" />
+
+# 7 JULY 2026 10:30 pm - 12:20 am (I DID THIS ON 3 JULY BUT WRITING UP ON 9 :P )
+oki so yah it was time to do 5v and gnd to those tiny leds and caps (capcitors) not head caps or keycaps , anyways i already knew that i gonna had a lot of vias so kept the trace 0.5 mm thick , so i started the 5v routing with back copper cuz the leds and caps are on the back so it would be easy to do so , from the first switch rgb i finally complted the last to the last rgb , i have intenitly made it rounder and messy like had some gap so that i could easily delete some of the trace while routing gnd and reconnect it , an yup i did the same and dtarted with routing gnd it was time taking but i manged to do so ! now it was time to do routing for leds first i thought it would be easy but no i relealised that could cuz bad led rgb effect and to prevent i get every led out of the board and then placed by order to the places and then routed the din and dout for diff leds like there were 20 ! of them 😭 now its time to route and the right side and yay then we move to cad ! 
+<img width="1920" height="1080" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/825fb50d-c0e8-4a88-ac88-f1f851501a6f" />
+<img width="1920" height="1080" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/00dc426b-2db2-48df-a3eb-003043dbdbd9" />
+<img width="1920" height="1080" alt="Screenshot (339)" src="https://github.com/user-attachments/assets/5917258f-f729-4539-9093-276715e8b29a" />
+<img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/f629eec5-e409-420d-bc58-bf35d400a3df" />
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/de1efada-e479-4624-9df5-6b4a4cedeb05" />
+<img width="1920" height="1080" alt="Screenshot (332)" src="https://github.com/user-attachments/assets/fe1d8c24-4970-41b5-9eb7-dbef758d71c0" />
+<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/fc5ee015-52a9-409f-8deb-ca1a03f8f956" />
+<img width="1920" height="1080" alt="Screenshot (334)" src="https://github.com/user-attachments/assets/ca3483ae-b596-4d48-b7f7-3eac06eacd66" />
+<img width="1920" height="1080" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/da5ebdc3-52ae-44e1-a072-44441f46a5b1" />
+<img width="1920" height="1080" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/1405209e-316c-4d2e-b13c-b8ecc0398310" />
