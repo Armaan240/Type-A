@@ -10,11 +10,13 @@ https://a360.co/4eYcRzC
 # Renders
 <img width="900" height="277" alt="Screenshot__32_-removebg-preview" src="https://github.com/user-attachments/assets/981acb7c-5eb9-4727-aa26-78d498405ceb" />
 <img width="900" height="277" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/c70afcc8-3c71-4fc4-b059-19280c59d673" />
-<img width="900" height="350" alt="Screenshot__40_-removebg-preview" src="https://github.com/user-attachments/assets/75e2b1f9-6a4a-4589-aa12-43702387a705" />
+<img width="900" height="413" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/0ccd0a54-ec14-4b23-a409-601c56263e64" />
+<img width="900" height="413" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/038e82c1-5387-4db5-8bbb-bd51916c0c61" />
+
 
 # Cad
 <img width="900" height="277" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/a2991c26-f509-457e-bca8-2813076d0d27" />
-<img width="1079" height="405" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/bec289de-d49f-48bd-ba4e-7b37b18f29f5" />
+<img width="900" height="405" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/bec289de-d49f-48bd-ba4e-7b37b18f29f5" />
 
 
  ## BOM
