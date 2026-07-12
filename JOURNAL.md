@@ -53,7 +53,7 @@ Oki it was time to route the pcb , i started with colums or ig rows i am really 
 <img width="1920" height="1080" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/561d0727-d876-4a62-b756-e0cd43eeb5f9" />
 <img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/0b0be09f-7c80-4f0a-b239-6e0fff0d6634" />
 
-# 7 JULY 2026 10:30 pm - 12:20 am (I DID THIS ON 3 JULY BUT WRITING UP ON 9 :P )
+# 7 JULY 2026 10:30 pm - 12:20 am (I DID THIS ON 7 JULY BUT WRITING UP ON 9 :P )
 oki so yah it was time to do 5v and gnd to those tiny leds and caps (capcitors) not head caps or keycaps , anyways i already knew that i gonna had a lot of vias so kept the trace 0.5 mm thick , so i started the 5v routing with back copper cuz the leds and caps are on the back so it would be easy to do so , from the first switch rgb i finally complted the last to the last rgb , i have intenitly made it rounder and messy like had some gap so that i could easily delete some of the trace while routing gnd and reconnect it , an yup i did the same and dtarted with routing gnd it was time taking but i manged to do so ! now it was time to do routing for leds first i thought it would be easy but no i relealised that could cuz bad led rgb effect and to prevent i get every led out of the board and then placed by order to the places and then routed the din and dout for diff leds like there were 20 ! of them 😭 now its time to route and the right side and yay then we move to cad ! 
 <img width="1920" height="1080" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/825fb50d-c0e8-4a88-ac88-f1f851501a6f" />
 <img width="1920" height="1080" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/00dc426b-2db2-48df-a3eb-003043dbdbd9" />
@@ -65,3 +65,12 @@ oki so yah it was time to do 5v and gnd to those tiny leds and caps (capcitors) 
 <img width="1920" height="1080" alt="Screenshot (334)" src="https://github.com/user-attachments/assets/ca3483ae-b596-4d48-b7f7-3eac06eacd66" />
 <img width="1920" height="1080" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/da5ebdc3-52ae-44e1-a072-44441f46a5b1" />
 <img width="1920" height="1080" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/1405209e-316c-4d2e-b13c-b8ecc0398310" />
+
+# 11 JULY 2026 12:00 pm - 1:40 (I DID THIS ON 11 JULY BUT WRITING UP ON 12 :P )
+yah i was really tired yesterday after all the work i did because of my low end potato pc it took me a loot of time to do things anyways today it was time to do do routing for the right hand side and i knewed before that i not gonna repeat the same mistake again of having everything at 4 km apart :P , and i did different thing this time , i routed rows on the back copper and the colums on the front copper so that it would help me routing 5 v and gnd and DIN of leds , yup do the routing of rowns and colums took me 30 min and then it was time to route the din in which i made a blunder of not keeping the led colser at the end so it needed me to go back and the route from the next line , anyways i did that too and then on 0.5 mm thickness i routed the 5v and gnd i starded from teh top and routed it in a stright line rathar than making a spider net , this doesnt effect anything since i have a thicker trace so power ralis would be okay if i have vias on it and thrn i poured the gnd on both side for thermal relif <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/2140b6a0-29d2-4a33-8aba-5905b1ccba1c" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/5992a759-4ab4-4eff-b950-c8030327384e" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/1cd34f98-d9e6-49f9-8c1c-1bceb643ebdd" />
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/4ebec203-2248-414f-b922-f5cd41a4af63" />
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/cb34f637-95fd-4975-92a9-7d486794c983" />
+
+
