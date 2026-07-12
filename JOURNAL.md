@@ -5,11 +5,11 @@
 | Author | ARMAAN SONI  |
 | Slack Id | U091M21518T (@AMU)|
 | Created  | 2026-07-2 |
-| Last Updated  | 2026-07-9 |
-| Total Time Till date| 6 Hours 30 min|
+| Last Updated  | 2026-07-12 |
+| Total Time Till date| 11 Hours|
 | Project Type | A custom split keeb !! |
 
-
+# 2 JULY 2026
 
 ## Keys Matrix
 ok so yah after lot of procastination i finaly started to make a keeb i so now it was time to decide to make which type a normal , or a split umm spilt keeb is the option for which i went cuz i feel using a spilt keeb could help make my posture correct , umm i love rgb leds so i had decided to to make it a backlit using SK6812 mini - E , these leds are pretty easy and doable with handsoldering , and sets perfect under keys for proper backlit effect , i want it make it compact and sleek so using a whole big pico for 3X6 and two extra keys wouldnt be feasible , so i decided to go with seed studio RP2040 and code with KMK , it have 11 pins which are sufficient for my thingi , 10 pins for keys and one pin for DIN , so yah i started making the schematic i would be design it in hirearchy so that it would be easy to handle (not too easy tbh !!) 
@@ -74,3 +74,25 @@ yah i was really tired yesterday after all the work i did because of my low end 
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/cb34f637-95fd-4975-92a9-7d486794c983" />
 
 
+# 11 JULY 2026 15:20 pm - 2:40 pm , 9:20pm - 10:10 (I DID THIS ON 11 JULY BUT WRITING UP ON 12 :P )
+Oki so yah it was time to do my fave thing !! that is making the the case and renders yay !! , so what i did is exported the the front silkscreen which had the dimension of holes for the keyswitches and exported the edge cuts for the perfect shape for the pcb and yup extruded it , than used the same outline to have 4 mm walls in the outer section which would be enough for m2 srews , since i was designing for integrated mount so it was easy to to extrude bottom and then what i did is made a bottom sketch and then extrude the bottom and finished the case i have kept everyhting minimal cuz its the real look off the keeb , simple and conformtable to use , anyways i drew sketches at the bottom of the case and then made the threaded holes ! , now it was time to do some fillets for a softer look and it need me to select all the edges manually to do the fillet "|-|" , oki so the case was completed i added the faster ner in the asembly design and then did some render by hiding the keycaps and making the keys a luminous objects and then adding back the caps so that i could get a beautifull render !!
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/6e653161-87a2-48ee-8298-041360141eeb" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/8f9c78cc-d37f-475a-9c9e-2b514c10c08f" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/4c98ac83-320b-4667-a8bb-cbf667ffbd6e" />
+<img width="1354" height="597" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/6f2d28d6-66c9-4a10-9cd4-cefae715ca63" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/25056bd1-e452-4739-a9d3-cbef43781cfa" />
+<img width="1050" height="387" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/bade0348-cf4e-4c0a-89cf-26573545774f" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/f1410d1f-dc6d-437f-8d26-0f9b380fb8f6" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/8135bd48-e792-4503-9ea8-dada60f19060" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/cd36f076-64a3-4616-92d7-60276eaa94aa" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/fd60edb4-f6ec-4b86-98be-67e8badf22d7" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/3d0a80cd-949d-4e64-8d2f-43a1ae61ba61" />
+<img width="1211" height="505" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/cfd239e4-7845-489e-9d45-28f282429a47" />
+
+# 12 JULY 2026 12:00 am - 12:30 am
+oki it was time to that last finishing touches to the keeb i improved the routing and checked DRC , and then what i did is made a graphic in canva with the name and then added veins to the corner and edge and some blood spoots and then used the image to pixel converter to get a pixeled graphic and whaala i removed the bg and then made it into svg and imported in kicad ! , now it was looking the actual good keeb :P
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/49569b9d-f3b6-4a15-aab2-dce44eade8cf" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/776db1c8-c467-4ff8-b78a-22fba78f8e2c" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/6f0fab08-e732-4464-b753-e26a3db68243" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/890ab491-20d3-4178-9554-dcd35b472df0" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/35097b23-0028-4fbc-9b0a-7047534356b5" />
