@@ -27,7 +27,7 @@ https://a360.co/4eYcRzC
 | 40 | Mechanical switches | 3X6 + 2 thumb keys per side |$5|https://www.amazon.in/Keyboard-Switches-Dust-Proof-Keycap-Puller/dp/B0GZVJZP6V/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_4/523-8533341-7350922?psc=1|
 | 40 | Keycaps | one per switch |-|3d Printed|
 | 40 | 1N4148 diodes | one per switch, anti-ghosting, back mounted |$0.55|https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/|
-| 40 | SK6812 mini-e RGB leds | 20 per side, back mounted under keys for backlight |$33|https://www.amazon.in/gp/product/B0D5LGQ629/ref=ox_sc_act_title_2?smid=A473XUTYXHG1Q&psc=1|
+| 40 | SK6812 mini-e RGB leds | 20 per side, back mounted under keys for backlight |$13|https://www.desertcart.in/products/653509650-50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228?source=search|
 | 40 | 0.1uF (100nF) SMD capacitors | decoupling, one per led |Already Have|-|
 | 2 | TRS jack (PJ-320A style) | connects the two halves |Locally Sourced|-|
 | 1 | TRS cable | to link both halves |-|-|
