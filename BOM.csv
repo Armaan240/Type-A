@@ -1,7 +1,7 @@
 Qty,Component,Notes,Price,Buy Link
 2,Seeed Studio XIAO RP2040,"one per half, runs KMK",$11.6,https://thinkrobotics.com/products/seeed-studio-xiao-rp2040?variant=47933480173885&country=IN&currency=INR
 40,Mechanical switches,3X6 + 2 thumb keys per side,$5,https://www.amazon.in/Keyboard-Switches-Dust-Proof-Keycap-Puller/dp/B0GZVJZP6V/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_4/523-8533341-7350922?psc=1
-40,Keycaps,one per switch,-,3D Printed
+40,Keycaps,one per switch,$9,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/
 40,1N4148 diodes,"one per switch, anti-ghosting, back mounted",$0.55,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/
 40,SK6812 mini-e RGB leds,"20 per side, back mounted under keys for backlight",$13,https://www.desertcart.in/products/653509650-50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228?source=search
 40,0.1uF (100nF) SMD capacitors,"decoupling, one per led",Already Have,-
