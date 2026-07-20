@@ -28,7 +28,7 @@ https://a360.co/4eYcRzC
 | 40 | Keycaps | one per switch |$9|https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/|
 | 40 | 1N4148 diodes | one per switch, anti-ghosting, back mounted |$0.55|https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/|
 | 40 | SK6812 mini-e RGB leds | 20 per side, back mounted under keys for backlight |$13|https://www.desertcart.in/products/653509650-50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228?source=search|
-| 40 | 0.1uF (100nF) SMD capacitors | decoupling, one per led |Already Have|-|
+| 40 | 0.1uF (100nF) SMD capacitors | decoupling, one per led i realised i had wrong package :(|$1.2|https://sharvielectronics.com/product/0-1uf-100nf-10v-capacitor-0805-pack-of-10/|
 | 2 | TRS jack (PJ-320A style) | connects the two halves |Locally Sourced|-|
 | 1 | TRS cable | to link both halves |-|-|
 | ~8 | M2 screws | integrated mount case |-|-|
